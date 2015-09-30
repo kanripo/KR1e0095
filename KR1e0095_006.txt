@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 御纂春秋直解
-#+DATE: 2015-09-23 09:40:30
-#+PROPERTY: JUAN 6
+#+DATE: 2015-08-24 22:16:43.162782
+#+PROPERTY: ID KR1e0095
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷六
 <pb:KR1e0095_WYG_006-1a>¶
 欽定四庫全書¶
 御纂春秋直解卷六¶
@@ -803,4 +805,3 @@
 　人因加以弑君之名故季孫行父因以為言耳聖人¶
 　豈以偽赴者定獄乎其書國者盖必賊由大臣而未¶
 　得其主名也¶
-

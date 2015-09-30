@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 御纂春秋直解
-#+DATE: 2015-09-23 09:40:30
-#+PROPERTY: JUAN 7
+#+DATE: 2015-08-24 22:16:43.192914
+#+PROPERTY: ID KR1e0095
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷七
 <pb:KR1e0095_WYG_007-1a>¶
 欽定四庫全書¶
 御纂春秋直解卷七¶
@@ -720,4 +722,3 @@
 　罪臧孫比而逐歸父不以君薨爲戚不以嗣君爲意¶
 　罪不容誅矣歸父聞君薨家遣墠帷成踊反命乎介¶
 　於禮有足觀者惜謀之不臧宜其及也¶
-

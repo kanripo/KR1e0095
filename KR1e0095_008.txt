@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 御纂春秋直解
-#+DATE: 2015-09-23 09:40:30
-#+PROPERTY: JUAN 8
+#+DATE: 2015-08-24 22:16:43.219415
+#+PROPERTY: ID KR1e0095
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷八
 <pb:KR1e0095_WYG_008-1a>¶
 欽定四庫全書¶
 御纂春秋直觧卷八¶
@@ -842,4 +844,3 @@
 <pb:KR1e0095_WYG_008-47b>¶
 　伐莒伐魯皆杼帥師齊之禍靈公為之也¶
 丁未葬我君成公¶
-
